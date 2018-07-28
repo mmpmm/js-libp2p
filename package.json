@@ -40,7 +40,7 @@
     "async": "^2.6.0",
     "libp2p-floodsub": "^0.14.1",
     "libp2p-ping": "~0.7.0",
-    "libp2p-switch": "~0.39.0",
+    "libp2p-switch": "0.37.3",
     "mafmt": "^6.0.0",
     "multiaddr": "^4.0.0",
     "peer-book": "~0.7.0",
